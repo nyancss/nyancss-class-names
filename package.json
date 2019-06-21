@@ -1,7 +1,7 @@
 {
   "name": "@nyancss/class-names",
-  "version": "0.1.0",
-  "description": "NyanCSS class names generator",
+  "version": "1.0.0",
+  "description": "Nyan CSS class names generator",
   "main": "index.js",
   "repository": "https://github.com/nyancss/nyancss-class-names",
   "author": "Sasha Koss <koss@nocorp.me>",
