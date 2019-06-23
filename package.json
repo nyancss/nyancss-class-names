@@ -1,13 +1,14 @@
 {
   "name": "@nyancss/class-names",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Nyan CSS class names generator",
   "main": "index.js",
   "repository": "https://github.com/nyancss/nyancss-class-names",
   "author": "Sasha Koss <koss@nocorp.me>",
   "license": "MIT",
   "dependencies": {
-    "@nyancss/types": "^1"
+    "@nyancss/types": "^1",
+    "@nyancss/utils": "^1.2"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",
